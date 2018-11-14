@@ -3,14 +3,17 @@
 ---
 
 ### android
-
+> 主要是一些框架性的东西，整体架构，模式上的整理。
 
 
 ### android_tips
+> android里面的一些比较坑的东西，经常性遇到的问题。
 
 
 ### view
+> 关于view方面的操作以及一些技巧性的东西。
 
-### gradle
+### [gradle](https://github.com/Longalei/Document/blob/master/gradle)
+> 整理的一些关于gradle方面的知识点，包括gradle环境的配置等等。
 
-  -[mac上的AndroidStudio如何配置gradle环境？](https://github.com/Longalei/AndroidTips/edit/master/README.md)
+  -[mac上的AndroidStudio如何配置gradle环境？](https://github.com/Longalei/Document/blob/master/gradle/mac%E4%B8%8A%E7%9A%84AndroidStudio%E5%A6%82%E4%BD%95%E9%85%8D%E7%BD%AEgradle%E7%8E%AF%E5%A2%83%EF%BC%9F.md)
