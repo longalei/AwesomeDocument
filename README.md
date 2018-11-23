@@ -20,3 +20,6 @@
 > 整理的一些关于gradle方面的知识点，包括gradle环境的配置等等。
 
   - [mac上的AndroidStudio如何配置gradle环境？](https://github.com/Longalei/Document/blob/master/gradle/mac%E4%B8%8A%E7%9A%84AndroidStudio%E5%A6%82%E4%BD%95%E9%85%8D%E7%BD%AEgradle%E7%8E%AF%E5%A2%83%EF%BC%9F.md)
+
+### [adb](https://github.com/Longalei/Document/blob/master/adb)
+ - [mac上如何配置adb?](https://github.com/Longalei/Document/blob/master/adb/mac%E4%B8%8A%E5%A6%82%E4%BD%95%E9%85%8D%E7%BD%AEadb.md)
