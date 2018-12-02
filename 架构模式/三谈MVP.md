@@ -8,6 +8,12 @@
 
 ###　MVP之Clean架构
 
+> 在数据层与presenter之间添加一层domain，处理所有可能的业务逻辑。
+
+
+
+
+
 
 
 ### MVP之RXjava处理
