@@ -4,7 +4,7 @@
 
 #### 基础
 
-- [ ] [什么是MVP](/Users/blossom/Desktop/Document/技术分享文稿)？
+- [ ] 什么是MVP？
 - [ ] 为什么选择MVP？
 
 #### 如何构造MVP
