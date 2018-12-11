@@ -4,15 +4,13 @@
 
 ### 简单版MVP
 
-
+![img](/Users/blossom/Desktop/Document/art/mvp1.jpg)
 
 ###　MVP之Clean架构
 
 > 在数据层与presenter之间添加一层domain，处理所有可能的业务逻辑。
 >
 > 定义的数据model最好能将业务逻辑抽离出来。
-
-
 
 
 
