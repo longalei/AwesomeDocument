@@ -1,4 +1,4 @@
-#### 1.解决防止多次点击
+#### 1.重写OnClickListener做更多次的操作
 
 ```
 public abstract class DebouncingOnClickListener implements View.OnClickListener {
