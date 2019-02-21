@@ -4,7 +4,7 @@
 
 ### 首先
 
-> 命令行中打开open .bash_profile bash_profile文件。
+> 命令行中打开open  .bash_profile文件。
 
 
 
@@ -27,4 +27,4 @@
 
 ### 最后
 
-> 点击保存文件，在命令行中输入source .bash_profile进行保存。执行adb,查看是否运行成功。
+> 点击保存文件，在命令行中输入source   .bash_profile进行保存。执行adb,查看是否运行成功。
