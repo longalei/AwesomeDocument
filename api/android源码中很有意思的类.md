@@ -32,3 +32,7 @@
 ##### PhotoViewActivity
 
 > 这个类完全是属于Controller控制，界面中无需关心具体的细节，只需要关注自己的Controller
+
+##### ObjectPool 
+
+> 可以用来存储再次使用的对象
