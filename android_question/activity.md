@@ -27,7 +27,11 @@ ActivityManager
 
 
 
-##### Activity、Window、View之间的区别？
+##### Activity、Window、Dialog、View之间的区别？
+
+> Window是个抽象类，这里不做考虑。其实一切的根本都在于DecorView，Dialog本身也是一个View.这个View添加在DecorView上成就了我们的Dialog。所以这些都是有密切相关联系的。确切的说，关系应该是：
+> Activity-->Window--PhoneWindow
+> Dialog-->Window--PhoneWindow
 
 
 
