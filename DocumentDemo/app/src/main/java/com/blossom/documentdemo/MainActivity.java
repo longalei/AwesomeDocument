@@ -14,6 +14,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 
+import com.blossom.documentdemo.viewmodel.ViewModelActivity;
+
 import java.io.File;
 import java.util.List;
 import java.util.UUID;
@@ -39,6 +41,10 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
         });
+    }
+
+    public void launchViewModel(View view) {
+        ViewModelActivity.start(this);
     }
 
     @Override
@@ -89,5 +95,4 @@ public class MainActivity extends AppCompatActivity {
         File fileDir = getCacheDir();
         return fileDir.getPath();
     }
-
 }
