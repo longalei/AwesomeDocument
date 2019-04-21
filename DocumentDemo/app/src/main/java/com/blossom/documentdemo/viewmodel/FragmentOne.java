@@ -1,6 +1,7 @@
 package com.blossom.documentdemo.viewmodel;
 
 
+import android.arch.lifecycle.ComputableLiveData;
 import android.arch.lifecycle.Observer;
 import android.arch.lifecycle.ViewModelProviders;
 import android.os.Bundle;
@@ -27,6 +28,7 @@ public class FragmentOne extends Fragment {
 
     public FragmentOne() {
         // Required empty public constructor
+        setRetainInstance(true);
     }
 
 

@@ -34,7 +34,7 @@ public class ArticleList extends ViewModel {
             List<Article> value = articleList.getValue();
             if (value != null && !value.isEmpty()) {
                 value.get(0).setFllowed(true);
-                articleList.setValue(value);
+                articleList.postValue(value);
             }
         }
 

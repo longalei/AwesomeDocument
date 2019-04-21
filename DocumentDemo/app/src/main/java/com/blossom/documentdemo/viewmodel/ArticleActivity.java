@@ -1,9 +1,11 @@
 package com.blossom.documentdemo.viewmodel;
 
 import android.arch.lifecycle.ViewModelProviders;
+import android.arch.lifecycle.ViewModelStore;
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
+import android.support.annotation.NonNull;
 import android.support.v4.app.FragmentActivity;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
@@ -31,5 +33,16 @@ public class ArticleActivity extends AppCompatActivity {
         //Todo 这里需要优雅的获取ViewModelActivity的对象，比如通过AMS？栈？
         ArticleList articleList = ViewModelProviders.of((FragmentActivity) mContext).get(ArticleList.class);
         articleList.cancelAttend();
+    }
+
+    @Override
+    public Object onRetainCustomNonConfigurationInstance() {
+        return super.onRetainCustomNonConfigurationInstance();
+    }
+
+    @NonNull
+    @Override
+    public ViewModelStore getViewModelStore() {
+        return super.getViewModelStore();
     }
 }
