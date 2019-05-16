@@ -3,6 +3,8 @@ package com.blossom.documentdemo.viewmodel;
 import android.arch.lifecycle.LiveData;
 import android.arch.lifecycle.MutableLiveData;
 import android.arch.lifecycle.ViewModel;
+import android.util.Log;
+import android.widget.Toast;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -15,6 +17,7 @@ public class ArticleList extends ViewModel {
         if (articleList == null) {
             articleList = new MutableLiveData<List<Article>>();
             loadArticles();
+            Log.e("tag", "getArticleList: wssssssssss" );
         }
         return articleList;
     }

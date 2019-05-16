@@ -117,3 +117,4 @@ android {
 例如：build/reports/lint-results.html或build/reports/lint-results-你的构建变体.html
 
 我们也可以在gralde构建过程中将报告中的信息输出。这需要我们在gradle中定义我们自己的task.
+

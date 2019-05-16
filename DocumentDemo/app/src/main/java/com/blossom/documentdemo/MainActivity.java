@@ -14,6 +14,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 
+import com.blossom.documentdemo.glide.GlideActivity;
 import com.blossom.documentdemo.viewmodel.ViewModelActivity;
 
 import java.io.File;
@@ -94,5 +95,9 @@ public class MainActivity extends AppCompatActivity {
     private String getSaveFilePath() {
         File fileDir = getCacheDir();
         return fileDir.getPath();
+    }
+
+    public void launchGlide(View view) {
+        GlideActivity.start(this);
     }
 }

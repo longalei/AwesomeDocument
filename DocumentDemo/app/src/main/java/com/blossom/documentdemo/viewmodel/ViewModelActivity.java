@@ -11,6 +11,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.FrameLayout;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.blossom.documentdemo.R;
 
@@ -39,6 +40,7 @@ public class ViewModelActivity extends AppCompatActivity {
         articleList.getArticleList().observe(this, new Observer<List<Article>>() {
             @Override
             public void onChanged(@Nullable List<Article> articles) {
+                Toast.makeText(ViewModelActivity.this, "我被调用了", Toast.LENGTH_SHORT).show();
                 for (int i = 0; i < articles.size(); i++) {
                     Article article = articles.get(i);
                     String contents = article.getTitle() + "\n" + article.getContent();
