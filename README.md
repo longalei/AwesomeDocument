@@ -20,7 +20,7 @@
 
 ### Android Jetpack
 
-- [Android Jetpack之架构组件ViewModel](https://github.com/Longalei/Document/blob/master/android_jetpack/Android Jetpack之架构组件ViewModel.md)
+- [Android Jetpack之架构组件ViewModel](https://github.com/Longalei/Document/blob/master/android_jetpack/ViewModel.md)
 
 ### Android Question
 
