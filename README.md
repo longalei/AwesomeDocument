@@ -11,7 +11,7 @@
 
 ### Android
 
-- [android Lint使用](https://github.com/Longalei/Document/blob/master/android/android Lint使用.md)
+- [android Lint使用](https://github.com/Longalei/Document/blob/master/android/Lint使用.md)
 
 ### Android Animation
 
@@ -25,7 +25,7 @@
 ### Android Question
 
 - [activity](https://github.com/Longalei/Document/blob/master/android_question/activity.md)
-- [Android Jetpack](https://github.com/Longalei/Document/blob/master/android_jetpack/Android Jetpack之架构组件ViewModel.md)
+- [Android Jetpack](https://github.com/Longalei/Document/blob/master/android_question/android_jetpack.md)
 - [android](https://github.com/Longalei/Document/blob/master/android_question/android.md)
 - [权限](https://github.com/Longalei/Document/blob/master/android_question/权限.md)
 
