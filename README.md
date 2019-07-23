@@ -2,7 +2,7 @@
 
 平常自己整理的一些知识文档以及技术总结，用于对知识的巩固以及查阅。
 
-![awesome](/Users/blossom/Desktop/Document/art/awesome.png)
+![awesome](https://github.com/Longalei/Document/blob/master/art/awesome.png)
 
 ---
 
