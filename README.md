@@ -12,6 +12,7 @@
 ### Android
 
 - [android Lint使用](https://github.com/Longalei/Document/blob/master/android/Lint使用.md)
+- [Android进程优先级](https://github.com/Longalei/Document/blob/master/android/Android进程优先级.md)
 
 ### Android Animation
 
