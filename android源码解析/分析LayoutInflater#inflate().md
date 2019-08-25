@@ -27,7 +27,7 @@
 
 ##### 二，不为merge标签时，参数ViewGroup不为null时；
 
-> 当ViewGroup不为空时，会获取此ViewGroup的LayoutParams参数，当attachToRoot为false时，会将此ViewGroup上的参数设置给实例化的View并返回.如果attachToRoot为true时，则会将实例化的View添加到此ViewGroup中并返回。
+> 当ViewGroup不为空时，会获取此ViewGroup的LayoutParams参数，当attachToRoot为false时，会将此ViewGroup上的参数设置给实例化的View并返回此view.如果attachToRoot为true时，则会将实例化的View添加到此ViewGroup中并返回此ViewGroup。
 
 
 
