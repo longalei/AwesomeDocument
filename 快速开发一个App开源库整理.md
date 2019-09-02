@@ -10,3 +10,5 @@
 
 ##### 控件
 
+- 引导性弹窗 [NewbieGuide](https://github.com/huburt-Hu/NewbieGuide),同时也可以使用PopWindow的思路进行自造。
+
