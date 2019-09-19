@@ -59,7 +59,7 @@
 
   关于chainStyle我觉得贴张图会更合适。
 
-  ![](/Users/blossom/Desktop/AwesomeDocument/art/chains-styles.png)
+  ![](https://github.com/Longalei/AwesomeDocument/blob/master/art/chains-styles.png)
 
 
 
