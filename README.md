@@ -44,8 +44,8 @@
 ### Android View
 
 - [MeasureSpec](https://github.com/Longalei/Document/blob/master/android_view/MeasureSpec.md)
-- [recyclerview帮助类](https://github.com/Longalei/Document/blob/master/view/recyclerview.md)
-- [ConstraintLayout](https://github.com/Longalei/Document/blob/master/view/AndroidX_ConstraintLayout.md)
+- [recyclerview帮助类](https://github.com/Longalei/Document/blob/master/android_view/recyclerview.md)
+- [ConstraintLayout](https://github.com/Longalei/Document/blob/master/android_view/AndroidX_ConstraintLayout.md)
 
 ### Android 三方库分析
 
