@@ -63,6 +63,10 @@
 - [视频开发资料](https://github.com/Longalei/Document/blob/master/android视频开发/视频开发资料.md)
 - [视频软编码和硬编码](https://github.com/Longalei/Document/blob/master/android视频开发/视频软编码和硬编码.md)
 
+### Android Test
+
+- [JMockit使用以及理解](https://github.com/Longalei/Document/blob/master/android_test/JMockit/JMockit使用以及理解.md)
+
 ### Api
 
 - [android源码中很有意思的类](https://github.com/Longalei/Document/blob/master/api/android源码中很有意思的类.md)
@@ -101,8 +105,8 @@
 
 - [kotlin学习(一)](https://github.com/Longalei/Document/blob/master/kotlin/kotlin学习(一).md)
 - [kotlin学习之了解Standard](https://github.com/Longalei/Document/blob/master/kotlin/kotlin学习之了解Standard.md)
-
-
+- [kotlin关键字](https://github.com/Longalei/Document/blob/master/kotlin/kotlin关键字.md)
+- [类与继承](https://github.com/Longalei/Document/blob/master/kotlin/类与继承.md)
 
 ---
 
