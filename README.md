@@ -118,6 +118,18 @@
 
 ---
 
+
+
+### RxJava
+
+- [RxJava中的subject之PublishSubject](https://github.com/Longalei/Document/blob/master/rxjava/RxJava中的subject之PublishSubject.md)
+
+
+
+---
+
+
+
 ### Vpn
 
 - [ssserver配置端口和域名](https://github.com/Longalei/Document/blob/master/vpn/ssserver配置端口和域名.md)
