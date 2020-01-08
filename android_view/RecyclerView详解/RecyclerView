@@ -2,3 +2,16 @@
 ```
 辅助滑动到中间的帮助类——LinearSnapHelper
 ```
+
+
+
+##### onMeasure之dispatchLayoutStep1()
+
+
+
+
+
+##### Recycler
+
+> 这个类应该是RecyclerView中的重用机制处理类，它主要来管理废弃的和独立的ItemView为了重新使用
+
