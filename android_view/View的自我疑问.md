@@ -1,0 +1,1 @@
+1.View的大小为0或者View的visibility为gone时会影响View的onLayout等方法嘛？
