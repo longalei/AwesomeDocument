@@ -13,3 +13,24 @@
 > Activity-->PhoneWindow-->DecorView-->ViewGroup-->View
 
 因为具体的开始过程是在PhoneWindow-->DecorView dispatchTouchEvent中,紧接着才开始上面的逻辑分发。
+
+要了解View的绘制以及事件分发的一个大概流程，可以从以下几个类中找到线索。
+
+1.ViewManager--WindowManager--WindowManagerImpl(WindowManagerGlobal)
+
+2.Window--PhoneWindow(setWindowManager())
+
+3.View--ViewGroup--ViewRootImpl--setView()--performMeasure layout draw
+
+4.ActivityThread
+
+
+
+### Q？
+
+1.dispatchTouchEvent与
+
+
+
+
+
